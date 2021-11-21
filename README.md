@@ -1,5 +1,5 @@
 # ScreensManager
-VNC/browser windows manager for AR or flatscreens
+VNC/RDP client and Web Browser with user action logging and retroactive repetetive user actions automatization
 
 
 
@@ -50,6 +50,6 @@ VNC/browser windows manager for AR or flatscreens
 
 #### Recording of macroses
 
-User can press a button in a window and select retrospectively amongst saved screenshots the beginning of the user defined macro.
+User can press a button in a window and select retroactively amongst saved screenshots the beginning of the user defined macro.
 Then this macro from the library can be executed in any window
 

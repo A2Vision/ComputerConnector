@@ -1,4 +1,4 @@
-# ScreensManager
+# ComputerConnector
 VNC/RDP client and Web Browser with user action logging and retroactive repetetive user actions automatization
 
 

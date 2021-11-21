@@ -44,8 +44,14 @@ VNC/RDP client and Web Browser with user action logging and retroactive repeteti
  - brightness/constrast/color settings
  
  
+### Networking
+
+#### sharing connections between devices, hopping of the sessions
+
+### Presenting on the Lock Screen 
  
- 
+### screenshooting tool 
+
 ### Scripting
 
 #### Recording of macroses
